@@ -1,5 +1,4 @@
 #Miranda Harrison
-#400065695
 
 import numpy
 import cv2
